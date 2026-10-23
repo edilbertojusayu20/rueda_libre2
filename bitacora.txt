@@ -23,4 +23,8 @@ CSS: define la apariencia. Ejemplo: mostrar el título en verde y organizar las 
 JavaScript: agrega comportamiento. Ejemplo: al pulsar “Reservar”, validar las fechas elegidas y mostrar un mensaje de confirmación.
 
 4. Imagen de la carpeta img/
+<<<<<<< HEAD
 logo-rueda-libre.svg es un logotipo vectorial original creado para este proyecto.
+=======
+logo-rueda-libre.svg es un logotipo vectorial original creado para este proyecto.
+>>>>>>> 1fdf720c4091e3cbb58ec84669b1d59ba2aea35c
