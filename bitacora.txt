@@ -1,0 +1,26 @@
+BITÁCORA | Proyecto Rueda Libre
+
+1. Petición de la página principal (servidor local de desarrollo)
+URL completa: http://127.0.0.1:5500/
+Protocolo: HTTP (http)
+Host: 127.0.0.1 (localhost, este computador)
+Puerto: 5500
+Ruta: /
+Método: GET
+Código de estado: 200 OK
+Interpretación: el navegador solicita el documento HTML al servidor local y el servidor devuelve index.html.
+
+2. Prueba de una ruta inexistente
+URL completa: http://127.0.0.1:5500/promociones.html
+Código de estado: 404 Not Found
+Interpretación: el servidor está activo, pero no encontró un recurso en esa ruta.
+
+Nota: los datos anteriores corresponden a una comprobación con un servidor local de desarrollo en el puerto 5500. Si Live Server en tu equipo muestra otro host o puerto, anótalo según DevTools > Network. La ruta normal de la página inicial es /; la ruta de la prueba fallida es /promociones.html.
+
+3. Rol de las tecnologías en Rueda Libre
+HTML: define la estructura y el contenido. Ejemplo: el título principal “Rueda Libre” y el párrafo de bienvenida en index.html.
+CSS: define la apariencia. Ejemplo: mostrar el título en verde y organizar las bicicletas en columnas.
+JavaScript: agrega comportamiento. Ejemplo: al pulsar “Reservar”, validar las fechas elegidas y mostrar un mensaje de confirmación.
+
+4. Imagen de la carpeta img/
+logo-rueda-libre.svg es un logotipo vectorial original creado para este proyecto.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Rueda Libre</title>
+  <desc id="desc">Logotipo de Rueda Libre con dos ruedas y un marco de bicicleta estilizado.</desc>
+  <rect width="900" height="260" rx="24" fill="#f4f8f2"/>
+  <g fill="none" stroke="#176b4d" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="112" cy="151" r="56"/><circle cx="255" cy="151" r="56"/>
+    <path d="M112 151l49-75 45 75h-94l57-48h53l33 48M155 76h-27m101 0h25"/>
+  </g>
+  <text x="342" y="142" font-family="Arial, sans-serif" font-size="68" font-weight="700" fill="#17392f">Rueda Libre</text>
+  <text x="347" y="188" font-family="Arial, sans-serif" font-size="25" letter-spacing="3" fill="#49685d">ALQUILER DE BICICLETAS · MEDELLÍN</text>
+</svg>
